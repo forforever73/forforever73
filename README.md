@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Yichen 👋
 
-<!--
-**forforever73/forforever73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer who enjoys making things **move fast** — first cars, now LLMs. 🚗 → 🤖
 
-Here are some ideas to get you started:
+- 🎓 Master's graduate
+- 🚙 Previously at **Baidu Apollo**, working on **Planning & Control (PnC)** for L4 autonomous driving
+- ✨ Currently at **StepFun** — LLM · VLM · TTS · Inference Optimization
+- 🦙 Member of **ggml-org**, working on the Metal backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out what we're building:
+- **Step-VL-10B** — [Hugging Face](https://huggingface.co/stepfun-ai/Step3-VL-10B)
+- **Step-3.5** — [Hugging Face](https://huggingface.co/stepfun-ai/Step-3.5-Flash)
+- **Step-3.7** — [Hugging Face](https://huggingface.co/stepfun-ai/Step-3.7-Flash)
+- 🌌 **Step-5 Preview** — on the way... 👀
+
